@@ -85,7 +85,7 @@ input,button{
 }
 
 /* New Task */
-.section__title:first-of-type {
+.section__title_add-item {
     display: block;
     margin: 0 0 20px;
 }
@@ -135,7 +135,7 @@ input,button{
 }
 
 /* Edit Task */
-.section__input {
+.section__task .section__input {
     display:none
 }
 
